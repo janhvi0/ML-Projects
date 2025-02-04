@@ -1,0 +1,8 @@
+ipykernel
+python-dotenv
+numpy
+pandas
+spacy
+scikit-learn
+keybert 
+# python -m spacy download en_core_web_md
